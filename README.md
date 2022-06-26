@@ -1,6 +1,6 @@
 # Wind-Direction-Difference
 
-Summary this function output is the +/- 0 - 180 degree value of the difference in angles
+# Summary this function output is the +/- 0 - 180 degree value of the difference in angles
     -Circle is in Meteoroligical Degrees not Mathematical Degrees
     -Wind Direction is reported 10 - 360 there is no zero degrees
     -Variable wind is not included in this 
